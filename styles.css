@@ -1,0 +1,76 @@
+
+body {
+  background-image: url(bg.png);
+  background-repeat: no-repeat;
+  background-size: 1499px 800px;
+}
+
+.cover-container {
+  max-width: 42em;
+}
+/* NAVABAR */
+.nav1{
+    background-color: black;
+    padding: 4% 8% 4% 8%;
+    margin: -17px -427.9px 0 -430px;
+}
+.nav-masthead .nav-link {
+  color: rgba(255, 255, 255, .5);
+
+}
+.nav-link{
+    margin-left: -1695px;
+    margin-right: 40px;
+   
+}
+.nav-masthead .nav-link + .nav-link {
+  margin-left: 1rem;
+}
+
+.nav-masthead .active {
+  color: #fff;
+  
+}
+
+
+.logo-img{
+    width: 100px;
+}
+
+.vl{
+  border-left: 2px solid #fff;
+  height: 40px;
+  position: relative;
+  bottom: 64px;
+  right: 230px;
+}
+
+.btn{
+  background-color: #B90EC5;
+  color: #fff;
+  font-family: "Montserrat" , sans-serif;
+}
+.btn:hover{
+  background-color: #dd06ec;
+}
+.btn-token{
+  margin-right: -1200px;
+}
+  /* ABOUT */
+  .about-div{
+    margin: auto;
+  }
+
+  .about-head{
+    font-family: "Montserrat" , sans-serif;
+    font-size: 55px;
+  }
+  .about-info{
+    font-family: "Ubuntu" , sans-serif ;
+    font-size: 23px;
+  }
+  .btn-about{
+    margin-top: 20px;
+  
+  }
+
